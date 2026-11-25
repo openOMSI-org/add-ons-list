@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "addons": [
+    {
+      "id": "omsi-hub",
+      "name": "Omsi-Hub",
+      "author": "Luc",
+      "description": "Run your own bus company on top of openOMSI: planning, rostering, a launcher and online features.",
+      "homepage": "https://omsihub.com",
+      "icon": {
+        "file": "icon.svg",
+        "size": 1196,
+        "sha256": "2475de563954f5de7953696e38704c8488579e8d88483d7dc29e82b81c785125"
+      },
+      "tags": [
+        "company",
+        "planning",
+        "online"
+      ]
+    }
+  ]
+}
